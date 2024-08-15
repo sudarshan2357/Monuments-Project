@@ -651,3 +651,14 @@ section.home{
 .explo .card-container .card .card-content .btn:hover{
     background-color: #131010;
 }
+footer{
+    background-color: #131010;
+    color: #fff;
+    height: 30px;
+    padding: .6rem;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+}
